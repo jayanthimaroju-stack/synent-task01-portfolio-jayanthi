@@ -44,16 +44,36 @@ Portfolio-Website/
 │── style.css
 │── README.md
 │── screenshots/
+  ├── about.png
+  ├── skills.png
+  ├── projects.png
+  ├── education.png
+  ├── contact.png 
+  └─  Hobbies.png
 
 ---
 
-## 🚀 How to Run the Project
+## 📷 Screenshots
 
-1. Download or clone the repository.
-2. Open the project folder.
-3. Open `index.html` in any modern web browser.
 
-No additional software or installation is required.
+
+### About Section
+![about](screenshots/about.png)
+
+### Skills Section
+![skills](screenshots/skills.png)
+
+### Projects Section
+![projects](screenshots/projects.png)
+
+### Education Section
+![Education](screenshots/education.png)
+
+### Contact Section
+![contact](screenshots/contact.png)
+
+### Hobbies Section
+![Hobbies](screenshots/Hobbies.png)
 
 ---
 
