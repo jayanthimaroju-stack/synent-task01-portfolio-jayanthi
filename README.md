@@ -57,20 +57,6 @@ No additional software or installation is required.
 
 ---
 
-## 📷 Screenshots
-
-Add screenshots of the following sections:
-
-- Home Page
-- About Me
-- Skills Section
-- Projects Section
-- Contact Section
-
-Store them inside the `screenshots` folder.
-
----
-
 ## 📖 Learning Outcomes
 
 Through this project, I learned:
